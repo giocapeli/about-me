@@ -1,0 +1,117 @@
+{
+  "about": {
+    "img": "/assets/images/giovanni-picture.jpg",
+    "title": "About me",
+    "description": "I'm Brazilian, from São Paulo and living in the Netherlands since 2019. My background is in design and architecture and I've been studing programming as a hobby for 2 years while planing my carrer change and preparing myself to start a new journey in Technology. I've been fascinated by computers and softwares since I was a child and I've lost how many times I oppened and took apart my dad's computer just to explore and understand how it worked."
+  },
+  "sections": [
+    {
+      "img": "/assets/images/architecture.jpg",
+      "title": "Background",
+      "description": "I completed my bachelor's in Architecture and Urban Planning at Universidade Estadual de Campinas, and this stage of my life was essential for me to develop some skills and competencies that I know are important to start my new journey learning and working with programming:",
+      "content": [
+        {
+          "title": "Creativity",
+          "description": "Architecture, like programming, requires a lot of logic however each project is unique with different variables, scopes, and contexts that most often demand creative solutions. Sometimes you have to ignore the logic to be creative, especially when dealing with people with different minds, perceptions, premises, and, just after that, you will return to the logic."
+        },
+        {
+          "title": "Resilience and self taughtness",
+          "description": "Sometimes we are lucky and can find a solution to a problem quickly and easily. Sometimes we have a person on our side who will teach, help and support us in that crazy project. But most of the time we have to be resilient because the solution is not visible, it's not on the first, second, or maybe 20th attempt that you will find it, sometimes nobody can help us, and it takes resilience not to give up but try again in a different way."
+        },
+        {
+          "title": "Solution oriented in problem solving",
+          "description": "When you work with a product that is part art, it is pretty easy to be blinded by your preferences, and sometimes you have to face a client that, even with all scope solved, hates some aesthetic aspect of your work. At that moment you have to choose between trying to force your taste down the client's throat, ignoring there it is a problem, or understanding that his stylish preferences were also part of the scope, and you have to face the fact that you have to bring new solutions, not more problems. Even when excluding the client variable you can avoid frustration, for example, during a project that something went wrong, or someone made a big mistake, by focusing on the solution, not the problem or who caused it."
+        },
+        {
+          "title": "Priority and focus",
+          "description": "During an architecture or design project, you can be amazed by hundreds or thousands of ideas or possibilities of solutions, and it is pretty easy to be overwhelmed by that and ending by being frustrated when you realize that beautiful green roofs or that curved columns are not part of the final solution. It was pretty important during my work in architecture to prioritize what matters and focus on finishing the project on time instead of losing track because there will always be a different solution out there, but the best one is the one you put into practice."
+        }
+      ]
+    },
+    {
+      "img": "/assets/images/abroad.jpg",
+      "title": "Living Abroad",
+      "description": "Living abroad expanded my world and reduced its borders at the same time. I was amazed by every new little thing I was discovering, and it put me in a new stage of apprenticeship. Of course, moving abroad didn't make all work by itself, but the experiences I had and how I faced them were the keys of change, however, to face the almost unknown has been bringing me a lot of new challenges and opportunities to grow up and strengthen some of my skills and competencies and even develop new ones:",
+      "content": [
+        {
+          "title": "Open mind",
+          "description": "I always considered myself open-minded, not just to new ideas, but also when facing the difference in general. But, as this always gets a new level of challenge as you get distance from your point of origin, now I have to face even more differences around me, and it is helping me to keep an open mind."
+        },
+        {
+          "title": "Adaptation",
+          "description": "Adaptation is being one of the keys to the success of my move to the Netherlands. Life is always changing, so there is no safe path, even if you think you want to stop at that comfortable safe spot everything around you is changing, and eventually, your safe spot is changed as well so, for me, adaptation is the better way to face and accept the changes you have to face or is willing to face, and it allows you to enjoy the most and suffer the less during the process."
+        },
+        {
+          "title": "Resilience",
+          "description": "Living abroad sounds quite exciting if you are thinking just about good things, the things you like or want to have in your life, but after moving you realize that the pack you got is bigger than you thought, and you have to deal with things you weren't expecting, sometimes with stuff you didn't want to face. Sometimes you can get overwhelmed with small or ordinary tasks that are effortless for a native but that demand a lot of effort from you. Resilience is the key that keeps me sturdy when I feel small, overwhelmed or stuck in a problem I don't know how to solve. Resilience is what makes me take a day at a time."
+        },
+        {
+          "title": "Comunication",
+          "description": "Being honest, I had never considered myself a communicative person before I moved abroad. In my imagination, moving abroad could make me shyest and less communicative, considering the combination of speaking a new language with being a kind of Alien with no shared background in common with the natives. I was wrong. Yes, I'm still shy, and I accepted it as part of my character, but I have improved my communication skills, and I am improving them every day. I moved to the Netherlands without speaking English or Dutch, I could barely ask for a glass of water at the restaurant, and now I'm feeling English becoming more and more natural every day. The fact that I have a different background makes me not just different but also interesting, I have a lot to share and a lot to learn with other people, and communication is being the key to that."
+        },
+        {
+          "title": "Self Awareness",
+          "description": "It is sad to think that sometimes you have to leave your family home, your city, or your country to be able to find yourself, I don't think it is totally necessary, but external changes, occasionally brutal ones, put you out of your comfort zone and allow you to make internal changes as well. Those changes could also free you of some weight that you are too attached to relieve by yourself, it may be because you think it would hurt someone else or, somehow, it looks like it would go against some old beliefs. That was my case at some point, I became more aware of myself, more attentive about my feelings, more interested to understand and question my beliefs. It could sound like I became self-centered and abandoned my family, but it is the exact opposite: to understand myself allows me to understand others, to create new connections, and strengthen old ones."
+        },
+        {
+          "title": "Confidence",
+          "description": "Living abroad put me far from my origin point, and then I was able to see things from a different point of view and review some of my old beliefs. It gave me more confidence because it opened my eyes to all the things I was capable to do by myself, all the problems I was able to overcome, and I could go even further realizing that I may think I don't know something, or that I'm not able to do something right now, but I definitely can learn and try to do it again."
+        },
+        {
+          "title": "Problem solving and the Unknown",
+          "description": "Having a lot of problems doesn't make you a problem solver specialist. Yes, I had to face a lot of problems because of living abroad, some old ones, most of them brand new. However, in my perception, be able to face them and solve them with an Open Mind, Adaptation skills, Resilience, better Communication, more Confidence, better Self Awareness, and Emotional Self-Control make me a better problem solver than before. Living abroad made me more courageous to face the Unknown."
+        }
+      ]
+    },
+    {
+      "img": "/assets/images/values.jpg",
+      "title": "My Values",
+      "description": "For me, it is quite important to have some good values and use them as guidance for my decisions. In my understanding, Values are different of thoughts and ideas, I can be open-minded and flexible and change my mind, or my thoughts, but my Values are unlike to change, but still, they could improve with new ideas.",
+      "content": [
+        {
+          "title": "Respect",
+          "description": "Be respectfully is different from being polite, nice, or even submissive but a mix of caring, consideration, and understanding that the other person is neither better nor worst than you, but like you, has feelings and fears, strengths and weaknesses, limits, and boundaries and deserve to be treated as you would treat yourself."
+        },
+        {
+          "title": "Social responsability",
+          "description": "I think it is extremely important to have social responsibility and awareness about how our actions impact society as to how to demand social responsibility from the companies we work for or buy from, from the governments and other actors of society. Especially in the technology business, where profit and innovation are so overvalued compared to the long-term impact these technologies can cause."
+        },
+        {
+          "title": "Kindness",
+          "description": "Not everybody thinks Kindness is a strength, but I do. For me, it is important how do you treat the surrounding people, if it is with love, compassion, or care for their felling. Do you use your strength to help others or to step over them towards your own success?"
+        },
+        {
+          "title": "Professionalism",
+          "description": "For me, professionalism is important either inside and outside the company's walls. It is not always possible to choose whom we are working with, sometimes you have to deal with someone you just met, and a simple joke could create an awkward or unprofessional situation. Sometimes your acts are seen as the company's acts, so It is important to follow the ethical and social rules every time while dealing with professional matters."
+        },
+        {
+          "title": "Patience and Concentration",
+          "description": "Sometimes I feel like the world around me is in a rush, everything is happening at the same time, some big deals out there, a great opportunity, a lot to do, to know, to learn! There are millions of choices, but no time enough, we have to focus and chose what matters for us. Doing, creating, or learning something can be tedious and hard to follow if we focus on the result trying to anticipate the reward, we are tempted or distracted by something else claiming our attention, but with Patience in the process, we can understand that we have to take one day at a time."
+        },
+        {
+          "title": "Change",
+          "description": "It is hard to deal with change, especially if it is about something you deal with every day. I don't think all the changes are for good, but we have to be open to them because they will happen, and we have to make the better to use that opportunity to learn and improve ourselves and our work."
+        },
+        {
+          "title": "Humour",
+          "description": "There is tragedy everywhere if we are looking for that, but I think everyone deserves to be happy, laugh, and be cheerful once in a while. Why not be a bit optimistic as well?"
+        },
+        {
+          "title": "Make the World Better",
+          "description": "I don't expect to make a big change in the world or either I focus my life to change it for the better, but I do my best to make sure my actions are impacting positively the environment around me and I believe our positive actions, even the tiny ones, together make the world a bit better every day."
+        }
+      ]
+    },
+    {
+      "img": "",
+      "title": "Links",
+      "description": "Some links that I would like to share:",
+      "content": [
+        { "title": "My Portfolio", "description": "" },
+        { "title": "My Linkedin", "description": "" },
+        { "title": "My GitHub", "description": "" },
+        { "title": "My Contact", "description": "" }
+      ]
+    }
+  ]
+}
